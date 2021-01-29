@@ -1,4 +1,4 @@
-# GetCoordinateFromPoint
+# GetCoordinateFromPoint - CATScript, Macro
 
 ## Using Macro;
 
